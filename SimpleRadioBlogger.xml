@@ -1798,7 +1798,7 @@ Diseñada para emisoras de radio, locutores y blogs informativos con audio en vi
         streamUrl: 'https://radio.labookostacion.com/listen/labookostacion/radio.mp3',
         textLive: 'Radio en vivo',
         textOffline: 'Radio apagada',
-        tagline: 'RADIO EN VIVO · NOTICIAS · MÚSICA',
+        tagline: 'RADIO EN VIVO - NOTICIAS - MÚSICA',
         metadata: { enabled: false, platform: 'azuracast', endpointUrl: '' }
       };
       var custom = window.RADIO_SETTINGS || {};
